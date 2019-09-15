@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpinnerTheme</string>
+    <string-array name="SpinnerArray">
+        <item>"Hello World"</item>
+        <item>"Hello Android Dev</item>
+        <item>"Hello Java Dev"</item>
+    </string-array>
+</resources>
